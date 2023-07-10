@@ -1,32 +1,22 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Portfolio README
 
+## Description
+Welcome to my portfolio! This repository showcases a collection of my projects that demonstrate my skills and expertise in data analytics. Each project explores different topics, techniques, and tools, highlighting my ability to analyze data, develop models, and provide valuable insights.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+## Projects
+Below is a list of projects included in this portfolio:
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+1. Predictive Modelling of Initial Coin Offering(ICO) Campaign
+2. Financial Performance and Sales Team Performance Report using Power BI
+3. Multi-Criteria Decision Analysis using Microsoft Excel
+4. Opportunity Diagnosis for Level-5 Autonomous Electric Vehicle Manufacturing Company
+5. Hierarchical Clustering using R programming
 
-(* = not included)
+Feel free to explore each project to learn more about the specific problem addressed, methodologies employed, and the results obtained.
 
-AJ
-aj@lkn.io | @ajlkn
+## Contact
+If you have any questions or inquiries regarding any of the projects or would like to discuss potential collaborations, feel free to reach out to me at marciarajan998@gmail.com.
 
+Thank you for visiting my portfolio, and I hope you find the projects informative and engaging!
 
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+**Note:** Please note that the projects included in this portfolio are for demonstrative purposes only and may not reflect real-world data or business scenarios.
