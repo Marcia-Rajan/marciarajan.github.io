@@ -10,7 +10,8 @@ Below is a list of projects included in this portfolio:
 2. Financial Performance and Sales Team Performance Report using Power BI
 3. Multi-Criteria Decision Analysis using Microsoft Excel
 4. Opportunity Diagnosis for Level-5 Autonomous Electric Vehicle Manufacturing Company
-5. Hierarchical Clustering using R programming
+5. Movie Recommendation System using Python 
+6. Hierarchical Clustering using R programming
 
 Feel free to explore each project to learn more about the specific problem addressed, methodologies employed, and the results obtained.
 
